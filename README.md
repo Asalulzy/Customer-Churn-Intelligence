@@ -1,4 +1,4 @@
-# Customer Churn Intelligence: End-to-End Predictive Modeling and Risk-Based Segmentation for Proactive Retention
+# Customer Churn Intelligence: End-to-End Predictive Modeling and Risk-Based Segmentation
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Data-Status](https://img.shields.io/badge/Data-Cleaned%20%26%20Validated-green.svg)
